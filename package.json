@@ -1,0 +1,20 @@
+{
+  "name": "localtunnel-node-client",
+  "version": "1.0.0",
+  "description": "Localtunnel Node Client",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "localtunnel",
+    "node",
+    "client"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "localtunnel": "^2.0.2"
+  }
+}
